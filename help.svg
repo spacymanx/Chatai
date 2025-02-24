@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 400 400">
+  <!-- Generator: Adobe Illustrator 29.2.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 116)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #7f7f7f;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 20px;
+      }
+
+      .st1 {
+        fill: #7f7f7f;
+      }
+    </style>
+  </defs>
+  <path class="st0" d="M199.82,81c-65.72,0-119,53.28-119,119s53.28,119,119,119,119-53.28,119-119-53.28-119-119-119ZM157.47,171.82c-.02-21.41,17.32-38.78,38.73-38.81,21.41-.02,38.78,17.32,38.81,38.73.02,18.93-13.64,35.11-32.31,38.26v26.43"/>
+  <circle class="st1" cx="203.1" cy="266.98" r="11.81"/>
+</svg>
